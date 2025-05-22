@@ -1,0 +1,873 @@
+CODE
+GEO
+
+ECYASQKM: Total area; ALL 0s DROPPED 
+ECYALSQKM: Total land area; ALL 0s DROPPED 
+
+
+ECYBASPOP: Total population DROPPED 
+
+ECYBASHHD: Total Households  DROPPED 
+
+
+ECYBASHPOP: Total Household population DROPPED 
+
+
+ECYBAS12P: Total Population 12 years or over 
+ECYBAS15P:  15 
+ECYBAS18P:  18
+ECYBAS19P: 19 years or over 
+
+ECYBAS12HP: Household Pop 12 or over 
+ECYBAS15HP:   15
+ECYBAS18HP:   18
+ECYBAS19HP:   19
+ECYBASTNGH: Total Household Pop 12-17
+ECYBASADUH: Total Household Pop 25-64
+
+
+****************************************************************************
+ECYBASCF: Total Census families DROPPED 
+
+ECYBASCFH: Total Census family households DROPPED 
+****************************************************************************
+
+ECYBASKID: Total children living in households (children at home) DROPPED 
+
+ECYBASLF: Total household pop 15 years or older in the labour force DROPPED 
+
+ECYPTAPOP: Total pop (BY AGE) DROPPED 
+
+
+ECYPTA_0_4: Total pop by age from 0-4 (total population of ages 0-4)
+ECYPTA_5_9:   5-9
+ECYPTA1014:   10-14
+ECYPTA1519:   15-19
+ECYPTA2024:   20-24
+ECYPTA2529:   25-29
+ECYPTA3034:   30-34
+ECYPTA3539:   35-39
+ECYPTA4044:   40-44
+ECYPTA4549:   45-49
+ECYPTA5054:   50-54
+ECYPTA5559:   55-59
+ECYPTA6064:   60-64
+ECYPTA6569:   65-69
+ECYPTA7074:   70-74
+ECYPTA7579:   75-79
+ECYPTA8084:   80-84
+ECYPTA85P:    85+
+ECYPTAAVG:  average age of the total pop 
+ECYPTAMED:  median age of total pop  
+
+
+
+ECYPMAPOP:  Total Male pop collected by age (total number of Males by age) DROPPED
+ 
+ECYPMA_0_4: total number of males 0-4
+ECYPMA_5_9:   5-9
+ECYPMA1014:   10-14
+ECYPMA1519:   15-19
+ECYPMA2024
+ECYPMA2529
+ECYPMA3034
+ECYPMA3539
+ECYPMA4044
+ECYPMA4549
+ECYPMA5054
+ECYPMA5559
+ECYPMA6064
+ECYPMA6569
+ECYPMA7074
+ECYPMA7579
+ECYPMA8084
+ECYPMA85P
+ECYPMAAVG:  average age of male pop 
+ECYPMAMED:  median age of male pop 
+
+ECYPFAPOP: total female pop collected by age DROPPED 
+
+ECYPFA_0_4: 0-4
+ECYPFA_5_9
+ECYPFA1014
+ECYPFA1519
+ECYPFA2024
+ECYPFA2529
+ECYPFA3034
+ECYPFA3539
+ECYPFA4044
+ECYPFA4549
+ECYPFA5054
+ECYPFA5559
+ECYPFA6064
+ECYPFA6569
+ECYPFA7074
+ECYPFA7579
+ECYPFA8084
+ECYPFA85P
+ECYPFAAVG: average age of female pop
+ECYPFAMED: median age of female pop
+
+ECYHTAHPOP: Total household population by age (total household # collected by age) DROPPED
+
+ECYHTA_0_4: Household population of 0-4 (# of households with ages 0-4)
+ECYHTA_5_9
+ECYHTA1014
+ECYHTA1519
+ECYHTA2024
+ECYHTA2529
+ECYHTA3034
+ECYHTA3539
+ECYHTA4044
+ECYHTA4549
+ECYHTA5054
+ECYHTA5559
+ECYHTA6064
+ECYHTA6569
+ECYHTA7074
+ECYHTA7579
+ECYHTA8084
+ECYHTA85P
+ECYHTAAVG: average age of total household population 
+ECYHTAMED: median age of total household population 
+
+ECYHMAHPOP: Male household population sorted/collected by age (total) DROPPED 
+
+ECYHMA_0_4: Household population of males aged 0-4
+ECYHMA_5_9
+ECYHMA1014
+ECYHMA1519
+ECYHMA2024
+ECYHMA2529
+ECYHMA3034
+ECYHMA3539
+ECYHMA4044
+ECYHMA4549
+ECYHMA5054
+ECYHMA5559
+ECYHMA6064
+ECYHMA6569
+ECYHMA7074
+ECYHMA7579
+ECYHMA8084
+ECYHMA85P
+ECYHMAAVG: average age of male household population 
+ECYHMAMED: median age of male household population 
+-----------------------------------------------------------------------------------------------------------------------
+ECYHFAHPOP: Female household population sorted/collected by age (total) DROPPED 
+
+ECYHFA_0_4: number of females in households aged 0-4
+ECYHFA_5_9
+ECYHFA1014
+ECYHFA1519
+ECYHFA2024
+ECYHFA2529
+ECYHFA3034
+ECYHFA3539
+ECYHFA4044
+ECYHFA4549
+ECYHFA5054
+ECYHFA5559
+ECYHFA6064
+ECYHFA6569
+ECYHFA7074
+ECYHFA7579
+ECYHFA8084
+ECYHFA85P
+ECYHFAAVG: average age of female household population
+ECYHFAMED: median 
+-------------------------------------------------------------------------------------------------------------------------
+ECYMTNHHD: Total number of households sorted/collected by maintainer age DROPPED 
+
+ECYMTN1524: Number of households for maintainers aged 15-24
+ECYMTN2534
+ECYMTN3544
+ECYMTN4554
+ECYMTN5564
+ECYMTN6574
+ECYMTN7584
+ECYMTN85P
+ECYMTNAVG: average age of maintainers 
+ECYMTNMED: median age of maintainers 
+-------------------------------------------------------------------------------------------------------------------------
+ECYHSZHHD: Total household population (number of people living in households) sorted/collected by household size DROPPED 
+
+ECYHSZ1PER: 1 person 
+ECYHSZ2PER
+ECYHSZ3PER
+ECYHSZ4PER
+ECYHSZ5PER
+ECYHSZTPER: Total number of people in private households 
+ECYHSZAVG: average number of people in private households
+ECYHTYHHD: Total number of households sorted by household types 
+ECYHTYFHT: Total number of family households sorted by household type 
+ECYHTY1FH: Total Number of one-family households
+ECYHTY1FHP: Total Number of one-family households with additional people
+ECYHTY1FHNP: Total Number of one-family households without additional people
+ECYHTYMGFH: Multigenerational family households
+ECYHTYMFH: Multi family households
+ECYHTYNFH: non-family households
+ECYHTY1PH: one person households 
+ECYHTYN65A: number of people 65+ living alone 
+ECYHTY2PPH: 2+ people households
+-----------------------------------------------------------------------------------------------------------------------
+ECYMARHP15: Total number of people living in households aged 15+ (household pop 15+) by marital status DROPPED 
+
+ECYMARMCL: number of people married or with common law partner aged 15+
+ECYMARM: married and not separated
+ECYMARCL: living common law 
+ECYMARNMCL: not married not common law partner
+ECYMARSING: single 
+ECYMARSEP: separated 
+ECYMARDIV: divorced
+ECYMARWID: widowed (womp womp)
+------------------------------------------------------------------------------------------------------------------------
+ECYCFSCF: total number of census family by family structure DROPPED 
+
+ECYCFSC: total # of couple families 
+ECYCFSCNC: without children at home 
+ECYCFSCWC: with children at home 
+ECYCFSM:  married couple families 
+ECYCFSMNC: without children at home, married (bad def asm)
+ECYCFSMWC: with children at home married 
+ECYCFSCL: common law couple families 
+ECYCFSCLNC: without children at home for common law  (bda)
+ECYCFSCLWC: with children at home for common law (bda)
+
+ECYCFSLP: lone parent (total) DROPPED 
+
+ECYCFSFP: female parent 
+ECYCFSMP: male parent 
+
+ECYCFSNFP: number of family persons (total population of census family households) DROPPED 
+
+ECYHFSCF: total number of census family Households DROPPED 
+
+---
+ECYHFSC: (total?) number of couple family households DROPPED 
+
+ECYHFSCNC: number of couple family households without children 
+ECYHFSCWC: number of couple family households with children 
+
+---
+ECYHFSM: (total?) number of married family households DROPPED
+
+ECYHFSMNC: number of married family households without children
+ECYHFSMWC: number of married with children 
+
+---
+ECYHFSCL: (total?) number of common law couple family households DROPPED
+
+ECYHFSCLNC: without children #
+ECYHFSCLWC: with children # 
+---
+
+ECYHFSLP: (total?) lone parent family households  DROPPED 
+
+ECYHFSFP: female 
+ECYHFSMP: male 
+---
+ECYHFSWC: percentage of family households with children living at home 
+----------------------------------------------------------------------------------------------------------------------
+ECYCHAKIDS: Total Number of children at home by age DROPPED
+
+ECYCHA_0_4: number of kids at home aged 0-4
+ECYCHA_5_9
+ECYCHA1014
+ECYCHA1519
+ECYCHA2024
+ECYCHA25P
+ECYCHACFCH: average number of children per census family 
+ECYCHAFHCH: average number of children per census household 
+ECYCHAHHCH: average number of children per household 
+----------------------------------------------------------------------------------------------------------------------
+ECYMOBHPOP: household population for 5 year mobility status DROPPED 
+
+ECYMOBNMOV: number of non mover 
+ECYMOBMOV: movers 
+---------------------------------------------------------------------------------------------------------------------
+ECYTENHHD: total number of households for tenure DROPPED 
+
+ECYTENOWN: owned 
+ECYTENRENT: rented 
+ECYTENBAND: band housing 
+---------------------------------------------------------------------------------------------------------------------
+ECYPOCHHD: total number of households for period construction DROPPED 
+
+ECYPOCP60: before 1961 
+ECYPOC6180: between 1961-1980
+ECYPOC8190
+ECYPOC9100
+ECYPOC0105
+ECYPOC0610
+ECYPOC1115
+ECYPOC1621
+ECYPOC22P: 2022+
+-----------------------------------------------------------------------------------------------------------------------
+ECYSTYHHD: total number of households for structure type DROPPED 
+
+ECYSTYHOUS: houses 
+ECYSTYSING: single detached 
+ECYSTYSEMI: semi detached 
+ECYSTYROW: row house 
+ECYSTYAPT: apartment low/high rise 
+ECYSTYAP5P: 5+ story apartment
+ECYSTYAPU5: apartment < 5 story 
+ECYSTYDUPL: detached duplex 
+ECYSTYOTHR: other 
+ECYSTYOATT: other single attached 
+ECYSTYMOVE: movable dwelling 
+-------------------------------------------------------------------------------------------------------------------------
+ECYCDOHHD: total number of households for condo status DROPPED
+
+ECYCDOCO: (total?) in condo 
+ECYCDOOWCO: owned, in condo 
+ECYCDORECO: rented, in condo 
+ECYCDONC: not in condo 
+ECYCDOOWNC: owned, not in condo 
+ECYCDORENC: rented, not in condo 
+ECYCDOBAND: band housing 
+-------------------------------------------------------------------------------------------------------------------------
+ECYHRIHHD: total number of households by income (constant year 2020) DROPPED 
+
+
+DROPPED :: 
+*************************************************************************************************************************************************
+ECYHRI_020: 0-20k
+ECYHRI2040: 20-40k
+ECYHRI4060
+ECYHRI6080
+ECYHRIX100
+ECYHRI100P
+
+ECYHRIX125
+ECYHRIX150
+ECYHRIX200
+ECYHRI200P
+
+ECYHRIX300
+ECYHRI300P
+ECYHRIAVG: average household income (constant year 2020)
+ECYHRIMED: median income 2020
+ECYHRIAGG: aggregate household income (constant year 2020)
+**************************************************************************************************************************************************
+
+
+-------------------------------------------------------------------------------------------------------------------------
+ECYHNIHHD: Total number of households by income (current year) DROPPED 
+
+ECYHNI_020
+ECYHNI2040
+ECYHNI4060
+ECYHNI6080
+ECYHNIX100
+ECYHNI100P
+ECYHNIX125
+ECYHNIX150
+ECYHNIX200
+ECYHNI200P
+ECYHNIX300
+ECYHNI300P
+ECYHNIAVG: average 
+ECYHNIMED: median 
+ECYHNIAGG: aggregate DROPPED 
+---------------------------------------------------------------------------------------------------------------------------
+ECYPNIHP15: household population 15 years or over for income DROPPED 
+
+ECYPNININ: without income 
+ECYPNIWIN: with income 
+ECYPNIAVG: average income 
+---------------------------------------------------------------------------------------------------------------------------
+ECYEDUHP15: total household population 15 years or over by education DROPPED 
+
+ECYEDUNCDD: no cert 
+ECYEDUHSCE: high school 
+ECYEDUATCD: apprentice 
+ECYEDUCOLL: college
+ECYEDUUDBB: uni cert of diploma below bachelor 
+ECYEDUUD: uni degree 
+ECYEDUUDBD: bachelor's deg 
+ECYEDUUDBP: bachelor's above 
+----------------------------------------------------------------------------------------------------------------------------
+ECYEDAHPWK: total household population 25-64 years old by educational attainment DROPPED 
+
+ECYEDANCDD: no cert 
+ECYEDAHSCE: high school
+ECYEDAATCD: apprentice
+ECYEDACOLL: college or other non uni cert/diploma 
+ECYEDAUDBB: uni cert or diploma below bachelor's 
+ECYEDAUD: uni degree at bachelor's or above 
+ECYEDAUDBD: bachelor's 
+ECYEDAUDBP: uni degree above bachelor's
+----------------------------------------------------------------------------------------------------------------------------
+ECYACTHPL: total household population 15 years or older by labour force activity DROPPED 
+
+ECYACTINLF: labour force 
+ECYACTEMP: employed 
+ECYACTUEMP: unemployed 
+ECYACTNOLF: not in the labour force
+ECYACTPR: participation rate 
+ECYACTER: employment rate 
+ECYACTUR: unemployment rate 
+----------------------------------------------------------------------------------------------------------------------------
+ECYCWHPL: total household population 15 years or older by class of worker DROPPED 
+
+ECYCWT: labour force 
+ECYCWEMP: employee 
+ECYCWPSEI: self employed 
+----------------------------------------------------------------------------------------------------------------------------
+ECYOCCHPL: Total household population 15 years or older by occupation DROPPED 
+
+ECYOCCINLF: labour force 
+ECYOCCNA: occupation NA 
+
+ECYOCCALL: (total?) All occupation DROPPED 
+
+ECYOCCMGMT: management 
+ECYOCCBFAD: business finance 
+ECYOCCNSCI: science 
+ECYOCCHLTH: health 
+ECYOCCSSER: social sci, gov, edu, religion 
+ECYOCCARTS: arts 
+ECYOCCSERV: sales and services
+ECYOCCTRAD: trades 
+ECYOCCPRIM: primary industry
+ECYOCCSCND: manufacturing
+----------------------------------------------------------------------------------------------------------------------------
+ECYINDHPL: total household population 15 years or older by (for) industry DROPPED
+
+ECYINDINLF: labor force  
+ECYINDNA: NA 
+
+ECYINDALL: (total?) all industries DROPPED 
+
+ECYINDAGRI: 
+ECYINDMINE
+ECYINDUTIL
+ECYINDCSTR
+ECYINDMANU
+ECYINDWHOL
+ECYINDRETL
+ECYINDTRAN
+ECYINDINFO
+ECYINDFINA
+ECYINDREAL
+ECYINDPROF
+ECYINDMGMT
+ECYINDADMN
+ECYINDEDUC
+ECYINDHLTH
+ECYINDARTS
+ECYINDACCO
+ECYINDOSER
+ECYINDPUBL
+-----------------------------------------------------------------------------------------------------------------------------
+ECYPOWHPL: Total household pop 15 years+ for place of work status DROPPED 
+
+ECYPOWINLF: labour force 
+ECYPOWEMP: employed 
+ECYPOWHOME: work at home 
+ECYPOWOSCA: outside canada 
+ECYPOWNFIX: no fixed work addr 
+ECYPOWUSUL: usual place 
+-----------------------------------------------------------------------------------------------------------------------------
+ECYTRAHPL: total pop 15yrs+ for travel to work DROPPED 
+
+ECYTRAALL: 
+ECYTRADRIV
+ECYTRAPSGR
+ECYTRAPUBL
+ECYTRAWALK
+ECYTRABIKE
+ECYTRAOTHE
+-----------------------------------------------------------------------------------------------------------------------------
+ECYRELHPOP: total household population for religion DROPPED 
+
+ECYRELBUDD
+ECYRELCHR
+ECYRELANGL
+ECYRELCATH
+ECYRELUNIT
+ECYRELOCHR
+ECYRELHIND
+ECYRELJEWI
+ECYRELMUSL
+ECYRELSIKH
+ECYRELOREL
+ECYRELNREL
+----------------------------------------------------------------------------------------------------------------------------
+ECYVISHPOP: total household population for visible minority DROPPED 
+
+ECYVISVM: (total num of visible minority?) visible minority total DROPPED FOR NOW 
+
+
+ECYVISCHIN
+ECYVISSA
+ECYVISBLCK
+ECYVISFILI
+ECYVISLAM
+ECYVISSEA
+ECYVISARAB
+ECYVISWA
+ECYVISKOR
+ECYVISJAPA
+ECYVISOVM
+ECYVISMVM
+ECYVISNVM
+---------------------------------------------------------------------------------------------------------------------------
+ECYAIDHPOP: Total Household Population for indigenous ID DROPPED 
+
+ECYAIDABO: Ind 
+ECYAIDNABO: Non ind 
+---------------------------------------------------------------------------------------------------------------------------
+ECYKNOHPOP: Total household pop by knowledge of official language of Canada DROPPED 
+
+
+ECYKNOENGL
+ECYKNOFREN
+ECYKNOENFR
+ECYKNONEF
+---------------------------------------------------------------------------------------------------------------------------
+ECYMOTHPOP: Total household pop by mother tongue DROPPED 
+
+
+ECYMOTSING
+ECYMOTENGL
+ECYMOTFREN
+ECYMOTNOFF
+ECYMOTITAL
+ECYMOTGERM
+ECYMOTPANJ
+ECYMOTCANT
+ECYMOTSPAN
+ECYMOTARAB
+ECYMOTTAGA
+ECYMOTPORT
+ECYMOTPOLI
+ECYMOTMAND
+ECYMOTCHIN
+ECYMOTURDU
+ECYMOTVIET
+ECYMOTUKRA
+ECYMOTPERS
+ECYMOTRUSS
+ECYMOTDUTC
+ECYMOTKORE
+ECYMOTGREE
+ECYMOTTAMI
+ECYMOTGUJA
+ECYMOTROMA
+ECYMOTHIND
+ECYMOTHUNG
+ECYMOTCROA
+ECYMOTCREO
+ECYMOTSERB
+ECYMOTBENG
+ECYMOTJAPA
+ECYMOTTURK
+ECYMOTCZEC
+ECYMOTSOMA
+ECYMOTABOR
+ECYMOTOTHR
+ECYMOTMULT
+ECYMOTENFR
+ECYMOTENON
+ECYMOTFNON
+ECYMOTEFNO
+ECYMOTMNON
+-------------------------------------------------------------------------------------------------------------------------
+ECYHOMHPOP: total household pop for home lang DROPPED 
+
+
+ECYHOMSING
+ECYHOMENGL
+ECYHOMFREN
+ECYHOMNOFF
+ECYHOMITAL
+ECYHOMGERM
+ECYHOMPANJ
+ECYHOMCANT
+ECYHOMSPAN
+ECYHOMARAB
+ECYHOMTAGA
+ECYHOMPORT
+ECYHOMPOLI
+ECYHOMMAND
+ECYHOMCHIN
+ECYHOMURDU
+ECYHOMVIET
+ECYHOMUKRA
+ECYHOMPERS
+ECYHOMRUSS
+ECYHOMDUTC
+ECYHOMKORE
+ECYHOMGREE
+ECYHOMTAMI
+ECYHOMGUJA
+ECYHOMROMA
+ECYHOMHIND
+ECYHOMHUNG
+ECYHOMCROA
+ECYHOMCREO
+ECYHOMSERB
+ECYHOMBENG
+ECYHOMJAPA
+ECYHOMTURK
+ECYHOMCZEC
+ECYHOMSOMA
+ECYHOMABOR
+ECYHOMOTHR
+ECYHOMMULT
+ECYHOMENFR
+ECYHOMENON
+ECYHOMFNON
+ECYHOMEFNO
+ECYHOMMNON
+-----------------------------------------------------------------------------------------------------------------------------------------
+ECYTIMHPOP: total household pop by binary immigrants classif (incl. place of birth) DROPPED 
+
+ECYTIMNI: (total?) Non-immigrant  DROPPED FOR NOW 
+
+ECYTIMNIIN
+ECYTIMNIOS
+
+ECYTIMIMGT: (total?) total # of immigrants DROPPED 
+
+ECYTIMAM
+ECYTIMNAM
+ECYTIMUSA
+ECYTIMONAM
+ECYTIMCAM
+ECYTIMELSA
+ECYTIMMEXI
+ECYTIMOCAM
+ECYTIMCB
+ECYTIMCUBA
+ECYTIMHAIT
+ECYTIMJAMA
+ECYTIMTRIN
+ECYTIMOCB
+ECYTIMSAM
+ECYTIMBRAZ
+ECYTIMCHIL
+ECYTIMCOLO
+ECYTIMGUYA
+ECYTIMPERU
+ECYTIMVENE
+ECYTIMOSAM
+ECYTIMEU
+ECYTIMWEU
+ECYTIMFRAN
+ECYTIMGERM
+ECYTIMNETH
+ECYTIMOWEU
+ECYTIMEEU
+ECYTIMCZEC
+ECYTIMHUNG
+ECYTIMMOLD
+ECYTIMPOLA
+ECYTIMROMA
+ECYTIMRUSS
+ECYTIMUKRA
+ECYTIMOEEU
+ECYTIMNEU
+ECYTIMUK
+ECYTIMIREL
+ECYTIMONEU
+ECYTIMSEU
+ECYTIMGREE
+ECYTIMITAL
+ECYTIMPORT
+ECYTIMBOSN
+ECYTIMCROA
+ECYTIMSERB
+ECYTIMOSEU
+ECYTIMAF
+ECYTIMWAF
+ECYTIMCOTE
+ECYTIMGHAN
+ECYTIMNIGE
+ECYTIMOWAF
+ECYTIMEAF
+ECYTIMERIT
+ECYTIMETHI
+ECYTIMKENY
+ECYTIMSOMA
+ECYTIMTANZ
+ECYTIMOEAF
+ECYTIMCAF
+ECYTIMCAME
+ECYTIMCONG
+ECYTIMCAFO
+ECYTIMNAF
+ECYTIMALGE
+ECYTIMEGYP
+ECYTIMMORO
+ECYTIMTUNI
+ECYTIMONAF
+ECYTIMSAF
+ECYTIMSAFR
+ECYTIMOSAF
+ECYTIMA
+ECYTIMWCA
+ECYTIMAFGH
+ECYTIMIRAN
+ECYTIMIRAQ
+ECYTIMISRA
+ECYTIMLEBA
+ECYTIMSAUD
+ECYTIMSYRI
+ECYTIMTURK
+ECYTIMUAE
+ECYTIMOWCA
+ECYTIMEA
+ECYTIMCHIN
+ECYTIMHONG
+ECYTIMJAPA
+ECYTIMSKOR
+ECYTIMTAIW
+ECYTIMOEA
+ECYTIMSEA
+ECYTIMCAMB
+ECYTIMMALA
+ECYTIMPHIL
+ECYTIMVIET
+ECYTIMOSEA
+ECYTIMSA
+ECYTIMBANG
+ECYTIMINDI
+ECYTIMNEPA
+ECYTIMPAKI
+ECYTIMSRI
+ECYTIMOSA
+ECYTIMOCE
+ECYTIMAUSS
+ECYTIMFIJI
+ECYTIMOOCE
+ECYTIMNPER
+-----------------------------------------------------------------------------------------------------------------------------------
+ECYRIMHPOP: Total household pop for recent immigration for place of birth; 2017-present DROPPED 
+
+ECYRIMRIM: (total?) total recent immigrants DROPPED FOR NOW?
+
+ECYRIMAM
+ECYRIMNAM
+ECYRIMCAM
+ECYRIMMEXI
+ECYRIMCAO
+ECYRIMCB
+ECYRIMCUBA
+ECYRIMHAIT
+ECYRIMJAMA
+ECYRIMCBO
+ECYRIMSAM
+ECYRIMBRAZ
+ECYRIMCOLO
+ECYRIMVENE
+ECYRIMSAO
+ECYRIMEU
+ECYRIMWEU
+ECYRIMFRAN
+ECYRIMGERM
+ECYRIMWEO
+ECYRIMEEU
+ECYRIMMOLD
+ECYRIMPOLA
+ECYRIMROMA
+ECYRIMRUSS
+ECYRIMUKRA
+ECYRIMEEO
+ECYRIMNEU
+ECYRIMUK
+ECYRIMNEO
+ECYRIMSEU
+ECYRIMAF
+ECYRIMWAF
+ECYRIMCOTE
+ECYRIMNIGE
+ECYRIMWAFO
+ECYRIMEAF
+ECYRIMERIT
+ECYRIMETHI
+ECYRIMKENY
+ECYRIMSOMA
+ECYRIMEAFO
+ECYRIMCAF
+ECYRIMNAF
+ECYRIMALGE
+ECYRIMEGYP
+ECYRIMMORO
+ECYRIMTUNI
+ECYRIMNAFO
+ECYRIMSAF
+ECYRIMA
+ECYRIMWCM
+ECYRIMAFGH
+ECYRIMIRAN
+ECYRIMIRAQ
+ECYRIMISRA
+ECYRIMLEBA
+ECYRIMSAUD
+ECYRIMSYRI
+ECYRIMTURK
+ECYRIMUAE
+ECYRIMWCMO
+ECYRIMEA
+ECYRIMCHIN
+ECYRIMHONG
+ECYRIMJAPA
+ECYRIMSKOR
+ECYRIMEAO
+ECYRIMSEA
+ECYRIMPHIL
+ECYRIMVIET
+ECYRIMSEAO
+ECYRIMSAS
+ECYRIMBANG
+ECYRIMINDI
+ECYRIMNEPA
+ECYRIMPAKI
+ECYRIMSRI
+ECYRIMSASO
+ECYRIMOCE
+ECYRIMAUSS
+ECYRIMOCEO
+--------------------------------------------------------------------------------------------------------------
+ECYPIMHPOP: total household pop by period of immigration DROPPED 
+
+ECYPIMNI: (total?) non-immigrants DROPPED FN?
+
+ECYPIMIM: (total?) immigrants DROPPED FN?
+
+ECYPIMP01
+ECYPIM0110
+ECYPIM1115
+ECYPIM1621
+ECYPIM22CY
+ECYPIMNPER
+--------------------------------------------------------------------------------------------------------------
+ECYAIMHPOP: total household pop by age at immigration DROPPED 
+
+ECYAIMNI: (total?) non-immigrants DROPPED FN?
+ECYAIMIM (total?) immigrants DROPPED FN? 
+
+ECYAIM_0_5
+ECYAIM_514
+ECYAIM1524
+ECYAIM2544
+ECYAIM45P
+ECYAIMNPER
+--------------------------------------------------------------------------------------------------------------
+ECYGENHPOP: total household pop by generation status DROPPED 
+
+ECYGEN1GEN
+ECYGEN2GEN
+ECYGEN3GEN
+---------------------------------------------------------------------------------------------------------------
+ECYTCAHPOP: total household pop for citizenship DROPPED 
+ECYTCACIT:
+ECYTCA_U18
+ECYTCA_18P
+ECYNCANCIT
+ECYNCA_U18
+ECYNCA_18P
